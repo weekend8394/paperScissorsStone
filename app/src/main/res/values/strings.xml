@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">paperScissorsStone</string>
+    <string name="start">開始START</string>
+    <string name="title">猜猜拳</string>
+    <string name="player_counter">玩家勝場</string>
+    <string name="computer_counter">電腦勝場</string>
+</resources>
